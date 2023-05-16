@@ -1,3 +1,9 @@
+# v0.9.1 - 2023-05-16
+* Update `tungstenite` and `tokio-tungstenite` to `v0.19`.
+* Update `tokio` to `v1.28.1`.
+* Update `hyper` to `v0.14.26`.
+* Update `pin-project` to `v1.1.0`.
+
 # v0.9.0 - 2022-12-03
 * Update `tungstenite` and `tokio-tungstenite` to `v0.18`.
 
